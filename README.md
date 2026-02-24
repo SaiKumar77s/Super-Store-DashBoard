@@ -1,7 +1,6 @@
-# Super-Store-DashBoard
-# Superstore-Sales-Dashboard
 
-# 📊 Interactive Sales Dashboard Using Power BI
+# Superstore-Sales-Dashboard
+-- 📊 Interactive Sales Dashboard Using Power BI
 
 ---
 
@@ -22,7 +21,7 @@ This dashboard helps the business to:
 ## 📂 Dataset Information
 
 ## Dataset Used
-- <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">Superstore Dataset</a>
+- <a href="https://github.com/SaiKumar77s/Super-Store-DashBoard/blob/main/Superstore.csv.csv">Superstore Dataset</a>
 
 The dataset contains:
 
@@ -83,7 +82,7 @@ Total Quantity = SUM('Sample - Superstore'[Quantity])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 ---
 
-##4️⃣ Dashboard Components
+### 4️⃣ Dashboard Components
 
 The dashboard includes:
 
@@ -96,3 +95,76 @@ Monthly Sales Trend (Line Chart)
 Top 10 Products by Sales
 
 Interactive Filters (Year, Category)
+
+## Key Insights
+
+Technology category generates the highest sales and profit.
+
+Sales increase significantly during year-end months.
+
+A small number of products contribute to major revenue.
+
+Higher discounts reduce overall profit margin.
+
+### 📁 Project Structure
+
+superstore-sales-dashboard/
+│
+├── data/
+│ └── Sample - Superstore.csv
+│
+├── dashboard/
+│ └── superstore_dashboard.pbix
+│
+├── images/
+│ └── dashboard_screenshot.png
+│
+└── README.md
+
+### ⚙️ Tools Used
+
+Power BI Desktop
+
+Power Query
+
+DAX (Data Analysis Expressions)
+
+### 📈 Dashboard Features
+
+Fully interactive visuals
+
+Cross-filtering enabled
+
+Dynamic slicers
+
+Real-time KPI updates
+
+Business insight text boxes
+
+## DashBoard
+<img width="1683" height="1464" alt="image" src="https://github.com/user-attachments/assets/def9de22-6569-4e5c-b12e-8f1c89238a39" />
+
+
+### ✅ Final Conclusion
+
+This interactive Power BI dashboard enables business stakeholders to:
+
+Monitor key performance indicators
+
+Identify profitable product categories
+
+Detect seasonal sales patterns
+
+Make strategic decisions based on data
+
+This project demonstrates practical Business Intelligence skills using Power BI.
+
+### 🔮 Future Improvements
+
+Add customer segmentation analysis
+
+Implement forecast visuals
+
+Connect to live SQL database
+
+Deploy to Power BI Service for sharing

@@ -106,18 +106,18 @@ A small number of products contribute to major revenue.
 
 Higher discounts reduce overall profit margin.
 
-### 📁 Project Structure
+# 📁 Project Structure
 
 superstore-sales-dashboard/
 │
 ├── data/
-│ └── Sample - Superstore.csv
+│   └── Sample - Superstore.csv
 │
 ├── dashboard/
-│ └── superstore_dashboard.pbix
+│   └── superstore_dashboard.pbix
 │
 ├── images/
-│ └── dashboard_screenshot.png
+│   └── dashboard_screenshot.png
 │
 └── README.md
 

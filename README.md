@@ -156,7 +156,7 @@ Identify profitable product categories
 Detect seasonal sales patterns
 
 Make strategic decisions based on data
-
+  
 This project demonstrates practical Business Intelligence skills using Power BI.
 
 ### 🔮 Future Improvements
